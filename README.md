@@ -2,7 +2,7 @@
 
 A comprehensive Hospital Management System (HMS) built with **React (Vite)** for the frontend and **Node.js (Express)** with **Oracle Database** for the backend.
 
-## 🚀 Features
+##  Features
 
 - **Ward Management:** Real-time monitoring and management of hospital wards.
 - **Doctor & Staff Tracking:** Comprehensive database of medical professionals.
@@ -11,7 +11,7 @@ A comprehensive Hospital Management System (HMS) built with **React (Vite)** for
 - **RBAC (Role-Based Access Control):** (Infrastructure present for role management).
 - **Responsive UI:** Modern dashboard built with React and Lucide icons.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **Framework:** React 19 (Vite)
@@ -26,13 +26,13 @@ A comprehensive Hospital Management System (HMS) built with **React (Vite)** for
 - **Database:** Oracle Database (via `oracledb` driver)
 - **Middleware:** CORS, JSON parser
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - **Node.js:** v18.x or higher
 - **Oracle Database:** Access to an Oracle instance (e.g., Oracle XE, 19c, or 21c).
 - **Oracle Instant Client:** Required for the `oracledb` driver.
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the Repository
 ```bash
@@ -73,10 +73,10 @@ cd Hospital-Data-Management-system
    ```
    *The frontend will be available at `http://localhost:5173`.*
 
-## 🗄️ Database Schema
+##  Database Schema
 The project includes a `schema.sql` file in the `hospital-backend` directory to help you set up the necessary tables and triggers in your Oracle Database.
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 Hospital-Data-Management-system/
@@ -91,8 +91,8 @@ Hospital-Data-Management-system/
 └── README.md
 ```
 
-## 🤝 Contributing
+##  Contributing
 Feel free to fork this project, report issues, or submit pull requests to improve the system!
 
-## 📄 License
+##  License
 This project is licensed under the ISC License.
