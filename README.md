@@ -14,7 +14,7 @@ A comprehensive Hospital Management System (HMS) built with **React (Vite)** for
 ##  Tech Stack
 
 ### Frontend
-- **Framework:** React 19 (Vite)
+- **Framework:** React 19(Vite)
 - **Routing:** React Router 7
 - **Styling:** CSS (Modular) / Tailwind (configured)
 - **Icons:** Lucide-React
